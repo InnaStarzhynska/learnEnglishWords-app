@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learnEnglishWords-app/static/css/main.7acaea2f.css",
+    "main.js": "/learnEnglishWords-app/static/js/main.e3da8397.js",
+    "index.html": "/learnEnglishWords-app/index.html",
+    "main.7acaea2f.css.map": "/learnEnglishWords-app/static/css/main.7acaea2f.css.map",
+    "main.e3da8397.js.map": "/learnEnglishWords-app/static/js/main.e3da8397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e3da8397.js"
+  ]
+}
